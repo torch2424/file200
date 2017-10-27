@@ -1,0 +1,14 @@
+{
+  "name": "index200",
+  "version": "1.0.0",
+  "description": "Return the file over http. 200 every time ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Turner",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^0.30.2"
+  }
+}
